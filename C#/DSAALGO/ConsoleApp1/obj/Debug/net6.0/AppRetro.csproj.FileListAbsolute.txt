@@ -1,0 +1,15 @@
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\bin\Debug\net6.0\AppRetro.exe
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\bin\Debug\net6.0\AppRetro.deps.json
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\bin\Debug\net6.0\AppRetro.runtimeconfig.json
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\bin\Debug\net6.0\AppRetro.dll
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\bin\Debug\net6.0\AppRetro.pdb
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.csproj.AssemblyReference.cache
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.AssemblyInfoInputs.cache
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.AssemblyInfo.cs
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.csproj.CoreCompileInputs.cache
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.dll
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\refint\AppRetro.dll
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.pdb
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\AppRetro.genruntimeconfig.cache
+D:\Development\DatastructureAndAlgorithm\C#\DSAALGO\ConsoleApp1\obj\Debug\net6.0\ref\AppRetro.dll
